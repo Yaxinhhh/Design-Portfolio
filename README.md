@@ -1,2 +1,2 @@
 # Design-Portfolio
-Portfolio of designs
+Portfolio of past design works
